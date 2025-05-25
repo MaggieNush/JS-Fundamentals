@@ -1,0 +1,1 @@
+The files covers some of JavaScript Fundamentals.
